@@ -1,0 +1,4 @@
+[
+  "tests/test_mvp.py::test_callback_updates_status",
+  "tests/test_mvp.py::test_webhook_creates_lead_and_sets_tg_message"
+]
